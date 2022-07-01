@@ -4,10 +4,10 @@
 Also I`m lead of Palm Tree Club.<br/><a href="https://meertarbani.dev" align="center">visit this</a></p>
 
 <p align="center">
-  <img>https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010</img>
-  <img>https://img.shields.io/badge/React-06B0DB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010</img>
-  <img>https://img.shields.io/badge/C++-764ABC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010</img>
-  <img>https://img.shields.io/badge/Flutter-97CA00?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010</img> 
+  <img>https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010/>
+  <img>https://img.shields.io/badge/React-06B0DB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010/>
+  <img>https://img.shields.io/badge/C++-764ABC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010/>
+  <img>https://img.shields.io/badge/Flutter-97CA00?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010/> 
 </p>
 
 <h2>Status</h2>
