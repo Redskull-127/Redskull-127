@@ -16,4 +16,3 @@ Also I`m lead of Palm Tree Club.<br/><a href="https://meertarbani.dev" align="ce
 <p align="center">
 <img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=Redskull-127&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=050810"/>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
