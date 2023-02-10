@@ -15,3 +15,6 @@ Also I`m lead of Palm Tree Club.<br/><a href="https://meertarbani.dev" align="ce
 <p align="center">
 <img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=Redskull-127&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=050810"/>
 </p>
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/to6rms2g0fzerpkwox1k4v33w)
+</div>
