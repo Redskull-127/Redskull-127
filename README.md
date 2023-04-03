@@ -1,4 +1,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey%2C+Nice+to+meet+you!" alt="Typing SVG" /></h1>
+&nbsp;<div align="center">
+ [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/user/meertarbani)
+</div>
 <p align="center" style="margin-top: 50px;">Hey, Myself Meer Tarbani and Currently enrolled in Computer Application Field (BCA) at Silver Oak University. Apart from my studies, I`m GDSC Lead and Open-Source contributor at GirlScript!
 Also I`m lead of Palm Tree Club.<br/><a href="https://meertarbani.dev" align="center">visit this</a></p>
 
