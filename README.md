@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
- [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/user/meertarbani)
+ [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/user/to6rms2g0fzerpkwox1k4v33w)
 </div>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey%2C+Nice+to+meet+you!" alt="Typing SVG" /></h1>
 <p align="center" style="margin-top: 50px;">Hey, Myself Meer Tarbani and Currently enrolled in Computer Application Field (BCA) at Silver Oak University. Apart from my studies, I`m GDSC Lead and Open-Source contributor at GirlScript!
@@ -20,4 +20,4 @@ Also I`m lead of Palm Tree Club.<br/><a href="https://meertarbani.dev" align="ce
 </p>
 
 # Support Me
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/meertarbani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
