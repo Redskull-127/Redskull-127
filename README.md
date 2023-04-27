@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey%2C+Nice+to+meet+you!" alt="Typing SVG" /></h1>
 <p align="center" style="margin-top: 50px;">Hey, Myself Meer Tarbani and Currently enrolled in Computer Application Field (BCA) at Silver Oak University. Apart from my studies, I`m GDSC Lead and Open-Source contributor at GirlScript!
-Also I`m lead of Palm Tree Club.<br/><a href="https://meertarbani.dev" align="center">visit this</a></p>
+Also I`m lead of Palm Tree Club.<br/><a href="https://meertarbani.in" align="center">visit this</a></p>
 
 <div align="center" style="margin-top: 50px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010"/>
