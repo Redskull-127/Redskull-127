@@ -1,6 +1,4 @@
-&nbsp;<div align="center">
- [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/user/to6rms2g0fzerpkwox1k4v33w)
-</div>
+&nbsp;
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey%2C+Nice+to+meet+you!" alt="Typing SVG" /></h1>
 # 💫 About Me:
 👋 Hey, I'm Meer<br>🧑‍💻 Full Stack Web Developer<br>🎙️ GDSC Lead '22<br>👉 Organizer of Hack For India<br>👉 Organizer of GDSC WoW '23 <br>👉 Organizer of Tech Nirvana<br>👉 Ex Flipkart SCOA Intern & Gao Tech Support Intern!
